@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Rutvik's GitHub stats](https://yc-stats.vercel.app/api?username=rutvikbabariya&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+
+
+![github-user-contribution](https://user-images.githubusercontent.com/46894260/174278334-193432e7-56f9-485c-b0e4-63d0595eac53.svg)
