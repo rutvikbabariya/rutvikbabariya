@@ -1,21 +1,36 @@
-### Hi there 👋
+# Hi, I'm Rutvik Babariya 👋
 
-<!--
-**rutvikbabariya/rutvikbabariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Flutter Developer** with 6 years of experience building cross-platform apps for Android & iOS.
+20+ apps shipped for clients in India, the USA and Europe, with a focus on **healthcare & telehealth**.
 
-Here are some ideas to get you started:
+🔭 Currently: Senior Flutter Developer & React Developer at Kode Creators
+🌱 Exploring: AI-assisted development with Claude (custom skills, automated code audits)
+💼 Open to: Senior Flutter Developer / Flutter Lead roles (Remote · Vadodara · Ahmedabad · Bengaluru)
+📫 Reach me: rutvikbabariya5777@gmail.com · [LinkedIn](https://linkedin.com/in/babariya-rutvik)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Rutvik's GitHub stats](https://yc-stats.vercel.app/api?username=rutvikbabariya&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+## 🛠 Tech Stack
+**Mobile:** Flutter · Dart · Android · iOS
+**State Management:** BLoC · Provider
+**Backend & APIs:** REST · Firebase (Auth, Firestore, FCM)
+**Integrations:** Agora video · Real-time chat · Stripe · Razorpay · Maps · Push notifications
+**Storage:** Hive · SQLite · SharedPreferences
+**Web:** React · TypeScript · Tailwind CSS
+**DevOps & AI:** Git · GitHub Actions (CI/CD) · Claude
 
+## 📱 Apps I've Built
+| App | What it does | Links |
+|---|---|---|
+| **THS – Total Health Solutions** | Telehealth: doctor consultations in 20+ specialities, lab tests, home care · 50K+ downloads | [App Store](https://apps.apple.com/us/app/id1661952894) |
+| **AstroNum** | Astrology & numerology app for a US client · 5K+ downloads | [App Store](https://apps.apple.com/us/app/astronum/id1606735318) |
+| **iKPlanner** | Shift planning for doctors & nurses with rule-based auto-assignment and shift-swap chat | Private (client) |
+| **Telehealth Weight Management Platform** | Flutter patient app + React web interface | Private (client) |
 
-![github-user-contribution](https://user-images.githubusercontent.com/46894260/174278334-193432e7-56f9-485c-b0e4-63d0595eac53.svg)
+*Most of my production work lives in private client repositories.*
 
+## 🏆 Recognition
+- Leadership Excellence Award, Kode Creators (2026)
+- Spotlight Award, Kode Creators (2023)
+- Employee of the Month, Kode Creators (2021)
+
+## 📊 GitHub Stats
+![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvikbabariya&show_icons=true&count_private=true&hide_border=true)
